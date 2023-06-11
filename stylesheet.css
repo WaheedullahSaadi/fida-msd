@@ -1,3 +1,2 @@
-<style> h1 {color: blueviolet;background-color: blanchedalmond;}
-p{color:white;background-color: brown;}  
-  </style>
+h1{background-color: blueviolet;color: blue;font-size:80px;text-align:center;border:6px solid red;}
+p{ color: blueviolet;background-color: aqua;font-size: 20px;font-family: inherit;border: 2px solid red;}
